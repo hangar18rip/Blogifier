@@ -249,25 +249,25 @@
           }
         }
       },
-      "Microsoft.Extensions.Localization/6.0.1": {
+      "Microsoft.Extensions.Localization/6.0.2": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
-          "Microsoft.Extensions.Localization.Abstractions": "6.0.1",
+          "Microsoft.Extensions.Localization.Abstractions": "6.0.2",
           "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
           "Microsoft.Extensions.Options": "6.0.0"
         },
         "runtime": {
           "lib/net6.0/Microsoft.Extensions.Localization.dll": {
             "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.121.56714"
+            "fileVersion": "6.0.222.6412"
           }
         }
       },
-      "Microsoft.Extensions.Localization.Abstractions/6.0.1": {
+      "Microsoft.Extensions.Localization.Abstractions/6.0.2": {
         "runtime": {
           "lib/net6.0/Microsoft.Extensions.Localization.Abstractions.dll": {
             "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.121.56714"
+            "fileVersion": "6.0.222.6412"
           }
         }
       },
@@ -1902,7 +1902,7 @@
       },
       "Blogifier.Shared/1.0.0": {
         "dependencies": {
-          "Microsoft.Extensions.Localization": "6.0.1"
+          "Microsoft.Extensions.Localization": "6.0.2"
         },
         "runtime": {
           "Blogifier.Shared.dll": {}
@@ -2100,19 +2100,19 @@
       "path": "microsoft.extensions.dependencymodel/6.0.0",
       "hashPath": "microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512"
     },
-    "Microsoft.Extensions.Localization/6.0.1": {
+    "Microsoft.Extensions.Localization/6.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-35azAu44val2LxvUovAIQmXCDrkvbSu+EmDrLsI4rs/382hEDcrFOhqUIRgykpeJyLwsvT6Jsi8jIbl8JFurBA==",
-      "path": "microsoft.extensions.localization/6.0.1",
-      "hashPath": "microsoft.extensions.localization.6.0.1.nupkg.sha512"
+      "sha512": "sha512-IdsVPFQ0TJux9xvOsAc7cDPSQrGIxkEx7c/3QBFfVEarfoVWyaujwZjNH01f2Y5mJoK1Ff7KiRw1l192UuestA==",
+      "path": "microsoft.extensions.localization/6.0.2",
+      "hashPath": "microsoft.extensions.localization.6.0.2.nupkg.sha512"
     },
-    "Microsoft.Extensions.Localization.Abstractions/6.0.1": {
+    "Microsoft.Extensions.Localization.Abstractions/6.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-LDGf0vOKjXYHL8ji6V0wjO9A8w3ps+HJ455dgZe6/CpSG2bcYnXhph+WNNDvFn3gtl0Tr4avsWp23j7lN1Wrkw==",
-      "path": "microsoft.extensions.localization.abstractions/6.0.1",
-      "hashPath": "microsoft.extensions.localization.abstractions.6.0.1.nupkg.sha512"
+      "sha512": "sha512-/NKlZ66nW2qTzPsKkVxVIcJs0DLnmvlCdvU6CnrWBaebOZrxhGwUMYjOdWn2zODiV8Jg2zeHesQGsdamJ83XzQ==",
+      "path": "microsoft.extensions.localization.abstractions/6.0.2",
+      "hashPath": "microsoft.extensions.localization.abstractions.6.0.2.nupkg.sha512"
     },
     "Microsoft.Extensions.Logging/6.0.0": {
       "type": "package",

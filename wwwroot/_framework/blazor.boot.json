@@ -8,8 +8,8 @@
   "resources": {
     "assembly": {
       "Blazored.Typeahead.dll": "sha256-YNakk\/GmzitY7JWE\/2LWemYjE+ufhSnWzOQM36VuU5Q=",
-      "Blogifier.Admin.dll": "sha256-Je\/sjIH6PAZaV7G2LjfSCZys0USbOyQ\/E4rpvLEhxkU=",
-      "Blogifier.Shared.dll": "sha256-CaSx2vsMrO+i0ho1Dq53bbShZBuPrsbodjM4DEk4UMg=",
+      "Blogifier.Admin.dll": "sha256-Z+4Yq\/0PcvizDcjF5Bnj6AmAe8TyQil7SmbOhA1aQXI=",
+      "Blogifier.Shared.dll": "sha256-icS6jAmDTGKjt8shQCV\/6uplmGLx0hIjH1F73Ht4HSY=",
       "ChartJs.Blazor.dll": "sha256-0ciRJps8EWsbo3zIh4fYA2+QBnZIl1lSu4aydLaQDEo=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-QOngaPE2UAx+D+5OkYZWze1PhClOdwlM+aBKJcyL9GI=",
       "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-J3agNCatxsCyaOo8Rst09j\/oH4VlpPtBHAMs50PLUPM=",
@@ -25,8 +25,8 @@
       "Microsoft.Extensions.Configuration.Json.dll": "sha256-fF3xaP+hT6R3GYUctLIY1ixaXQ8mrHzwWHHf2dKfueU=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-iGGQav+wLzoqIbATzY\/bS9Fi2fODHIPP3IFYPeuSfG4=",
       "Microsoft.Extensions.DependencyInjection.dll": "sha256-pYDNELbgbO60zgvgH5SP8004wkA0+o\/KlQxFXl\/uS2A=",
-      "Microsoft.Extensions.Localization.Abstractions.dll": "sha256-E6SgZ5KbY5HGrhu5BMrdY1q4EzZKeyPMlikvFwxERbQ=",
-      "Microsoft.Extensions.Localization.dll": "sha256-5HRiDFG\/LT\/3gsh01PZKhVr87w0CqfaI4LT+k0tdcdQ=",
+      "Microsoft.Extensions.Localization.Abstractions.dll": "sha256-73\/5zh2SKHwAOs35bdCzLdSH5pWGAttYnw7EnH3ANO0=",
+      "Microsoft.Extensions.Localization.dll": "sha256-jtLkbdn30iCTQmPeoYqumiafZp5KxzKAPFgV5s7zvE8=",
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-82jQ1S8fVKicouHacqgKa9tmMN2ULI9fAHrasfNDUS8=",
       "Microsoft.Extensions.Logging.dll": "sha256-aj8Tk1BLrOE4y41oBvw\/VGDdmvACVEpGmiEDNrA7Hco=",
       "Microsoft.Extensions.Options.dll": "sha256-1tB1TdOK1QaMSk7+PPe5sikuuMC9hs8bkujWqFMdAx4=",
