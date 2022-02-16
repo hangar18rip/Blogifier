@@ -178,14 +178,14 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/6.0.1": {
+      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/6.0.2": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Relational": "6.0.2"
         },
         "runtime": {
           "lib/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll": {
-            "assemblyVersion": "6.0.1.0",
-            "fileVersion": "6.0.121.56714"
+            "assemblyVersion": "6.0.2.0",
+            "fileVersion": "6.0.222.6412"
           }
         }
       },
@@ -1608,7 +1608,7 @@
         "dependencies": {
           "Blogifier.Shared": "1.0.0",
           "Markdig": "0.27.0",
-          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.1",
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1",
           "Microsoft.EntityFrameworkCore.Sqlite": "6.0.1",
           "Microsoft.SyndicationFeed.ReaderWriter": "1.0.2",
@@ -1774,12 +1774,12 @@
       "path": "microsoft.aspnetcore.components.webassembly.server/6.0.1",
       "hashPath": "microsoft.aspnetcore.components.webassembly.server.6.0.1.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/6.0.1": {
+    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/6.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-5hwndB69/GUWfFcBBhR5UGpbPSPzkMu83PnkJjJgYLtwLnvhREMA5ca2XPoZK4Va1o6EtuNMBAfc/3zENkYLYQ==",
-      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/6.0.1",
-      "hashPath": "microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.1.nupkg.sha512"
+      "sha512": "sha512-cWszEEOB++BvJlyJ2Nkk9gkqx9pAa43t/L+jUam3mFdOKzn/K//2c3f2ov0FW+4q/HoZ3lJTc/PLWh6Cz7BTTg==",
+      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/6.0.2",
+      "hashPath": "microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.2.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Hosting.Abstractions/2.2.0": {
       "type": "package",
