@@ -11,7 +11,7 @@
           "Blogifier.Core": "3.0.0",
           "Blogifier.Shared": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.1.0",
-          "coverlet.collector": "3.1.1",
+          "coverlet.collector": "3.1.2",
           "xunit": "2.4.1",
           "xunit.runner.visualstudio": "2.4.3"
         },
@@ -19,7 +19,7 @@
           "Blogifier.Tests.dll": {}
         }
       },
-      "coverlet.collector/3.1.1": {},
+      "coverlet.collector/3.1.2": {},
       "HtmlAgilityPack/1.11.40": {
         "runtime": {
           "lib/netstandard2.0/HtmlAgilityPack.dll": {
@@ -1945,12 +1945,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "coverlet.collector/3.1.1": {
+    "coverlet.collector/3.1.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-5x+/JfOC7+I+IJMWZ9yEbLxZJepGwdrqMJ1zuA1J2uAZ5tV3w4j2T+rbgkNQ1eH7aKdD0ifJIUtuOF+odzItHQ==",
-      "path": "coverlet.collector/3.1.1",
-      "hashPath": "coverlet.collector.3.1.1.nupkg.sha512"
+      "sha512": "sha512-wuLDIDKD5XMt0A7lE31JPenT7QQwZPFkP5rRpdJeblyXZ9MGLI8rYjvm5fvAKln+2/X+4IxxQDxBtwdrqKNLZw==",
+      "path": "coverlet.collector/3.1.2",
+      "hashPath": "coverlet.collector.3.1.2.nupkg.sha512"
     },
     "HtmlAgilityPack/1.11.40": {
       "type": "package",

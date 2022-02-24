@@ -11,7 +11,7 @@
           "Blogifier.Admin": "1.0.0",
           "Blogifier.Core": "3.0.0",
           "Blogifier.Shared": "1.0.0",
-          "Microsoft.AspNetCore.Components.WebAssembly.Server": "6.0.1",
+          "Microsoft.AspNetCore.Components.WebAssembly.Server": "6.0.2",
           "Microsoft.AspNetCore.Server.IISIntegration": "2.2.1",
           "Microsoft.EntityFrameworkCore.Design": "6.0.2",
           "Serilog.Sinks.File": "5.0.0",
@@ -170,11 +170,11 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebAssembly.Server/6.0.1": {
+      "Microsoft.AspNetCore.Components.WebAssembly.Server/6.0.2": {
         "runtime": {
           "lib/net6.0/Microsoft.AspNetCore.Components.WebAssembly.Server.dll": {
-            "assemblyVersion": "6.0.1.0",
-            "fileVersion": "6.0.121.56714"
+            "assemblyVersion": "6.0.2.0",
+            "fileVersion": "6.0.222.6412"
           }
         }
       },
@@ -1767,12 +1767,12 @@
       "path": "microsoft.aspnetcore.components.webassembly/6.0.2",
       "hashPath": "microsoft.aspnetcore.components.webassembly.6.0.2.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Components.WebAssembly.Server/6.0.1": {
+    "Microsoft.AspNetCore.Components.WebAssembly.Server/6.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-wigBx6wkzTvEshttivaujSDQ7oN7gTX9x5KbJb9rTtahbHhNtoE5erwRgnpSkIeAk+VdqIbCjw+VoBY/2z93Pg==",
-      "path": "microsoft.aspnetcore.components.webassembly.server/6.0.1",
-      "hashPath": "microsoft.aspnetcore.components.webassembly.server.6.0.1.nupkg.sha512"
+      "sha512": "sha512-GGRXrmLdayvUcKclH8jGPoAuRl9utuC6Ut2YlqYG6zJvugXw2HPz+wnmKNJviRO6Ck/yqZrtEXnHeXNeqy8vCg==",
+      "path": "microsoft.aspnetcore.components.webassembly.server/6.0.2",
+      "hashPath": "microsoft.aspnetcore.components.webassembly.server.6.0.2.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/6.0.2": {
       "type": "package",
