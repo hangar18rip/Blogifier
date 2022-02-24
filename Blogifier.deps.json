@@ -23,7 +23,7 @@
       },
       "Blazored.Typeahead/4.6.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Components": "6.0.1",
+          "Microsoft.AspNetCore.Components": "6.0.2",
           "Microsoft.AspNetCore.Components.Web": "6.0.1"
         },
         "runtime": {
@@ -91,47 +91,47 @@
           "Microsoft.AspNetCore.Http.Extensions": "2.2.0"
         }
       },
-      "Microsoft.AspNetCore.Authorization/6.0.1": {
+      "Microsoft.AspNetCore.Authorization/6.0.2": {
         "dependencies": {
-          "Microsoft.AspNetCore.Metadata": "6.0.1",
+          "Microsoft.AspNetCore.Metadata": "6.0.2",
           "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
           "Microsoft.Extensions.Options": "6.0.0"
         },
         "runtime": {
           "lib/net6.0/Microsoft.AspNetCore.Authorization.dll": {
             "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.121.56714"
+            "fileVersion": "6.0.222.6412"
           }
         }
       },
-      "Microsoft.AspNetCore.Components/6.0.1": {
+      "Microsoft.AspNetCore.Components/6.0.2": {
         "dependencies": {
-          "Microsoft.AspNetCore.Authorization": "6.0.1",
-          "Microsoft.AspNetCore.Components.Analyzers": "6.0.1"
+          "Microsoft.AspNetCore.Authorization": "6.0.2",
+          "Microsoft.AspNetCore.Components.Analyzers": "6.0.2"
         },
         "runtime": {
           "lib/net6.0/Microsoft.AspNetCore.Components.dll": {
             "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.121.56714"
+            "fileVersion": "6.0.222.6412"
           }
         }
       },
-      "Microsoft.AspNetCore.Components.Analyzers/6.0.1": {},
-      "Microsoft.AspNetCore.Components.Authorization/6.0.1": {
+      "Microsoft.AspNetCore.Components.Analyzers/6.0.2": {},
+      "Microsoft.AspNetCore.Components.Authorization/6.0.2": {
         "dependencies": {
-          "Microsoft.AspNetCore.Authorization": "6.0.1",
-          "Microsoft.AspNetCore.Components": "6.0.1"
+          "Microsoft.AspNetCore.Authorization": "6.0.2",
+          "Microsoft.AspNetCore.Components": "6.0.2"
         },
         "runtime": {
           "lib/net6.0/Microsoft.AspNetCore.Components.Authorization.dll": {
             "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.121.56714"
+            "fileVersion": "6.0.222.6412"
           }
         }
       },
       "Microsoft.AspNetCore.Components.Forms/6.0.1": {
         "dependencies": {
-          "Microsoft.AspNetCore.Components": "6.0.1"
+          "Microsoft.AspNetCore.Components": "6.0.2"
         },
         "runtime": {
           "lib/net6.0/Microsoft.AspNetCore.Components.Forms.dll": {
@@ -142,7 +142,7 @@
       },
       "Microsoft.AspNetCore.Components.Web/6.0.1": {
         "dependencies": {
-          "Microsoft.AspNetCore.Components": "6.0.1",
+          "Microsoft.AspNetCore.Components": "6.0.2",
           "Microsoft.AspNetCore.Components.Forms": "6.0.1",
           "Microsoft.Extensions.DependencyInjection": "6.0.0",
           "Microsoft.JSInterop": "6.0.1",
@@ -237,11 +237,11 @@
           "Microsoft.Extensions.Options": "6.0.0"
         }
       },
-      "Microsoft.AspNetCore.Metadata/6.0.1": {
+      "Microsoft.AspNetCore.Metadata/6.0.2": {
         "runtime": {
           "lib/net6.0/Microsoft.AspNetCore.Metadata.dll": {
             "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.121.56714"
+            "fileVersion": "6.0.222.6412"
           }
         }
       },
@@ -860,7 +860,7 @@
       },
       "Sotsera.Blazor.Toaster/3.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Components": "6.0.1",
+          "Microsoft.AspNetCore.Components": "6.0.2",
           "Microsoft.AspNetCore.Components.Web": "6.0.1"
         },
         "runtime": {
@@ -1593,7 +1593,7 @@
           "Blazored.Typeahead": "4.6.0",
           "Blogifier.Shared": "1.0.0",
           "ChartJs.Blazor.Fork": "2.0.2",
-          "Microsoft.AspNetCore.Components.Authorization": "6.0.1",
+          "Microsoft.AspNetCore.Components.Authorization": "6.0.2",
           "Microsoft.AspNetCore.Components.WebAssembly": "6.0.1",
           "Microsoft.AspNetCore.WebUtilities": "2.2.0",
           "Microsoft.Extensions.Localization": "6.0.2",
@@ -1718,33 +1718,33 @@
       "path": "microsoft.aspnetcore.authentication.core/2.2.0",
       "hashPath": "microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Authorization/6.0.1": {
+    "Microsoft.AspNetCore.Authorization/6.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-4XjeiDdQPmC5eNMFGM9LEcQUxORz6NpUsYD1AmZuk8GBA8IW8kN+o7M7m+rhhrYIWxQ9TADePaMWeomScGhbCQ==",
-      "path": "microsoft.aspnetcore.authorization/6.0.1",
-      "hashPath": "microsoft.aspnetcore.authorization.6.0.1.nupkg.sha512"
+      "sha512": "sha512-AjwO1PjN75weiC0KzznybEZh5rr+VjH3c2wvuRT6Qmd8cv2+/6hBn/peelGkZUzYBY0l7QA22jwmjKKeeNYsIQ==",
+      "path": "microsoft.aspnetcore.authorization/6.0.2",
+      "hashPath": "microsoft.aspnetcore.authorization.6.0.2.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Components/6.0.1": {
+    "Microsoft.AspNetCore.Components/6.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-q2WwEpmuT6tDAURCTo/q0ToWcate6XIGQ3+Yvc/utGFpyAOXynK9OdB+bCHB3BLrMAG/3U9dTt+K7v8ReQ3FKA==",
-      "path": "microsoft.aspnetcore.components/6.0.1",
-      "hashPath": "microsoft.aspnetcore.components.6.0.1.nupkg.sha512"
+      "sha512": "sha512-UXojpKtmaJkGRUzGgGY2LcmAqWaubEJ0ewEm/wmchn89hQPuqMG/Zm+Matl1pSMCDIbxuGegYzUs9zIqbS1VNA==",
+      "path": "microsoft.aspnetcore.components/6.0.2",
+      "hashPath": "microsoft.aspnetcore.components.6.0.2.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Components.Analyzers/6.0.1": {
+    "Microsoft.AspNetCore.Components.Analyzers/6.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-5FWCCBrxeY8HGiPULYpqlwCX8TAs3H1p7mVdfymGF/0ak7vY2qbMMxOXMZaqp/V5C9FcnU33+z4h1wNMXVH7PQ==",
-      "path": "microsoft.aspnetcore.components.analyzers/6.0.1",
-      "hashPath": "microsoft.aspnetcore.components.analyzers.6.0.1.nupkg.sha512"
+      "sha512": "sha512-jHMdjIrlqm1T6BqBzCpuMAdj1mSpmcEF0wNXIKh7xS6jKAdKOy8aWKTbFI022dW8ZgjC4UNpp9UTuMDVu9/T/w==",
+      "path": "microsoft.aspnetcore.components.analyzers/6.0.2",
+      "hashPath": "microsoft.aspnetcore.components.analyzers.6.0.2.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Components.Authorization/6.0.1": {
+    "Microsoft.AspNetCore.Components.Authorization/6.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-cVE/z0bqqm1myMBK1pa/an9Z31V4eGb0E9c7gmiiViIq2bTz4TYFwkc9QlXwLwx1EKjNapi/+pTGITHI1ZIzKw==",
-      "path": "microsoft.aspnetcore.components.authorization/6.0.1",
-      "hashPath": "microsoft.aspnetcore.components.authorization.6.0.1.nupkg.sha512"
+      "sha512": "sha512-kIMFGo1pqfUyFLN5sekbk73R0C+0cKI+nJ1AnBwWiPmAhiLEmz6HSjSehXJ7ST7hAxPhE9oGoPoTC6hF1Lvilw==",
+      "path": "microsoft.aspnetcore.components.authorization/6.0.2",
+      "hashPath": "microsoft.aspnetcore.components.authorization.6.0.2.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Components.Forms/6.0.1": {
       "type": "package",
@@ -1830,12 +1830,12 @@
       "path": "microsoft.aspnetcore.httpoverrides/2.2.0",
       "hashPath": "microsoft.aspnetcore.httpoverrides.2.2.0.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Metadata/6.0.1": {
+    "Microsoft.AspNetCore.Metadata/6.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-7CquMq2Hb0+0/kKnDf83WBLiEh04UPIOZgxgpjF0NegU1gHZ50llgZupOE3FRARmdzzW7A0AJtt9zobKbMTJkA==",
-      "path": "microsoft.aspnetcore.metadata/6.0.1",
-      "hashPath": "microsoft.aspnetcore.metadata.6.0.1.nupkg.sha512"
+      "sha512": "sha512-SE6xWyaY2n9LsfwNwppyqwVIRtS1RcYPaIFoqyTi8HA6l2Zze40lIvdTSTtDQC+EZpdDRmQY3CPQi9ZlCqOwTg==",
+      "path": "microsoft.aspnetcore.metadata/6.0.2",
+      "hashPath": "microsoft.aspnetcore.metadata.6.0.2.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Server.IISIntegration/2.2.1": {
       "type": "package",
