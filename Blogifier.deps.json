@@ -401,15 +401,15 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.SqlServer/6.0.1": {
+      "Microsoft.EntityFrameworkCore.SqlServer/6.0.2": {
         "dependencies": {
           "Microsoft.Data.SqlClient": "2.1.4",
           "Microsoft.EntityFrameworkCore.Relational": "6.0.2"
         },
         "runtime": {
           "lib/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {
-            "assemblyVersion": "6.0.1.0",
-            "fileVersion": "6.0.121.56712"
+            "assemblyVersion": "6.0.2.0",
+            "fileVersion": "6.0.222.6404"
           }
         }
       },
@@ -1609,7 +1609,7 @@
           "Blogifier.Shared": "1.0.0",
           "Markdig": "0.27.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.2",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.2",
           "Microsoft.EntityFrameworkCore.Sqlite": "6.0.1",
           "Microsoft.SyndicationFeed.ReaderWriter": "1.0.2",
           "NETCore.MailKit": "2.0.3",
@@ -1928,12 +1928,12 @@
       "path": "microsoft.entityframeworkcore.sqlite.core/6.0.1",
       "hashPath": "microsoft.entityframeworkcore.sqlite.core.6.0.1.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.SqlServer/6.0.1": {
+    "Microsoft.EntityFrameworkCore.SqlServer/6.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-bXmFi9F7GHT0dMUvuT2b5Pf8TtPnU6sQxZ5pvf3UElva+cD0YqsGI5bJGTx21pcMdw3bVhqzCLrpfA/zgHFyMw==",
-      "path": "microsoft.entityframeworkcore.sqlserver/6.0.1",
-      "hashPath": "microsoft.entityframeworkcore.sqlserver.6.0.1.nupkg.sha512"
+      "sha512": "sha512-ghYelO6ipPSnW06rmj4HDhvOZX1of3tNZoDuc4RUC/yT9vdg24Fq0iamJiQSFYHskePkHvhABdrTVuyxPVGN7w==",
+      "path": "microsoft.entityframeworkcore.sqlserver/6.0.2",
+      "hashPath": "microsoft.entityframeworkcore.sqlserver.6.0.2.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/6.0.0": {
       "type": "package",
