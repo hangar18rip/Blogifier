@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "coverlet.collector/3.1.2": {
+      "coverlet.collector/3.1.1": {
         "dependencies": {
           "Microsoft.SourceLink.GitHub": "1.0.0",
           "Microsoft.TestPlatform.ObjectModel": "16.9.1",
@@ -726,7 +726,7 @@
     }
   },
   "libraries": {
-    "coverlet.collector/3.1.2": {
+    "coverlet.collector/3.1.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
